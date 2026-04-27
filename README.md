@@ -1,8 +1,12 @@
-# Personal Finance Data Analysis 💰
+# Personal Finance Data Analysis 💰\
 
 ## Overview
-Analysed 3,000+ personal transactions across 4 datasets 
-to uncover spending patterns and financial insights.
+Analysed 3,000+ personal transactions across 4 different 
+datasets (CSV and Excel formats) to uncover spending patterns, 
+identify top expense categories, track monthly trends, 
+and compare spending across multiple bank accounts.
+The project involved loading, cleaning, standardising and 
+combining all 4 datasets into one unified dataset for analysis.
 
 ## Tools Used
 - Python
